@@ -21,14 +21,4 @@ public class MetaCanalApplication {
         SpringApplication.run(MetaCanalApplication.class, args);
     }
 
-//    @GetMapping("/")
-//    String hello() {
-//        return "Hello!";
-//    }
-//
-//    @PostMapping("/")
-//    String helloPost(@RequestParam("message") String message) {
-//        return "hello: " + message;
-//    }
-
 }
