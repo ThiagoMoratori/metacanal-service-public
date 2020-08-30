@@ -1,1 +1,2 @@
-# metacanal-service-public
+# metacanal-service
+Backend core no metacanal
